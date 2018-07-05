@@ -1,2 +1,2 @@
-# dotnet-core-async-console
-dotnet core ConsoleApplication with ThreadPools
+# dotnet-core async console application
+Simple dotnet core Console application with ThreadPools
